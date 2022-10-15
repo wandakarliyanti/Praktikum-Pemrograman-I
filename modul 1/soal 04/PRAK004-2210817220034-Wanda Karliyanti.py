@@ -1,0 +1,6 @@
+print("#"*30)
+print("#                            #")
+print("#      Wanda Karliyanti      #")
+print("#       2210817220034        #")
+print("#                            #")
+print("#"*30)
